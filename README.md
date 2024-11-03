@@ -1,1 +1,1 @@
-# conversion-of-marks-to-CGPA-and-vice-versa
+# Conversion-of-marks-to-CGPA-and-vice-versa
